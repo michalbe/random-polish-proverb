@@ -7,7 +7,7 @@ var rpp = function(cb) {
 
     cb(proverbs[~~(Math.random()*proverbs.length)]);
   });
-}
+};
 
 rpp(function(proverb) {
   console.log(proverb);
