@@ -9,6 +9,4 @@ var rpp = function(cb) {
   });
 };
 
-rpp(function(proverb) {
-  console.log(proverb);
-});
+module.exports = rpp;
