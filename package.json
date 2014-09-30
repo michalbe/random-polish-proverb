@@ -11,5 +11,8 @@
   "scripts": {
     "test": "node tests/random-polish-proverb-tests.js",
     "lint": "node node_modules/jshint/bin/jshint ."
+  },
+  "dependencies": {
+    "polish-proverbs": "0.0.1"
   }
 }
