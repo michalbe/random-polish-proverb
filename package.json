@@ -1,6 +1,6 @@
 {
   "name": "random-polish-proverb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Michał Budzyński <michal@virtualdesign.pl>",
   "repository": "git@github.com:michalbe/random-polish-proverb.git",
   "devDependencies": {
@@ -13,6 +13,6 @@
     "lint": "node node_modules/jshint/bin/jshint ."
   },
   "dependencies": {
-    "polish-proverbs": "0.0.1"
+    "polish-proverbs": "^1.0.1"
   }
 }
